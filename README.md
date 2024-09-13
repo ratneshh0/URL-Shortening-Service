@@ -100,10 +100,5 @@ We welcome contributions! Please read `CONTRIBUTING.md` for details on the proce
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
-## Acknowledgments
 
-Special thanks to all contributors and to the open-source tools and libraries that make this project possible.
 
----
-
-This `README.md` now has the appropriate formatting using headings, bullet points, inline code, and block code as specified. You can copy this directly to your GitHub repository!
